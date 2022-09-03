@@ -1,0 +1,2 @@
+HEROKU_API_KEY: da429e89-3c44-468d-b0be-82da29315da1
+HEROKU_APP_NAME: tutor-django
